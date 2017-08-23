@@ -1,0 +1,11 @@
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/bin/Debug/netcoreapp2.0/netcore-webapi.deps.json
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/bin/Debug/netcoreapp2.0/netcore-webapi.runtimeconfig.json
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/bin/Debug/netcoreapp2.0/netcore-webapi.runtimeconfig.dev.json
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/bin/Debug/netcoreapp2.0/netcore-webapi.dll
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/bin/Debug/netcoreapp2.0/netcore-webapi.pdb
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.csproj.CoreCompileInputs.cache
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.AssemblyInfoInputs.cache
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.AssemblyInfo.cs
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.dll
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.pdb
+/Users/vsossella/Documents/workspace-studies/netcore-webapi/obj/Debug/netcoreapp2.0/netcore-webapi.csprojResolveAssemblyReference.cache
